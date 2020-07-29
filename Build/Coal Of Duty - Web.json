@@ -1,0 +1,16 @@
+{
+"companyName": "LeAndFoucault",
+"productName": "Coal Of Duty",
+"productVersion": "0.1",
+"dataUrl": "Coal Of Duty - Web.data.unityweb",
+"wasmCodeUrl": "Coal Of Duty - Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Coal Of Duty - Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#211431",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
